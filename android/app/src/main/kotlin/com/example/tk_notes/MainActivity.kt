@@ -1,4 +1,4 @@
-package com.example.tk_notes
+package fi.tetakava.tk_notes
 
 import io.flutter.embedding.android.FlutterActivity
 
